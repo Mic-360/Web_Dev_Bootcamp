@@ -98,3 +98,18 @@ a.about {
     font-weight: normal;
     padding-top: 20px;
 }
+
+.skills {
+    height: 2.1875em;
+    width: 2.1875em;
+}
+
+.skill-img {
+    margin-bottom: 4.375em;
+}
+
+img.skills:hover {
+    border-radius: 0;
+    height: 4%;
+    width: 4%;
+}
