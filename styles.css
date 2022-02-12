@@ -4,8 +4,11 @@ html {
 
 body {
     display: block;
+    margin: 0;
+    text-align: center;
+    background-color: white;
 }
 
 .top-container {
-    
+
 }
