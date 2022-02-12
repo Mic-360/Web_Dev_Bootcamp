@@ -48,3 +48,20 @@ a.about {
     color: white;
     text-decoration: none;
 }
+
+.intro {
+    position:relative;
+    top: 5em;
+    font-family: 'Qwitcher Grypen', cursive;
+}
+
+.block {
+    padding: 0 180px 0;
+}
+
+.land {
+    position: relative;
+    display: block;
+    margin: 6.45em auto 0;
+    width: 100%;
+}
