@@ -134,3 +134,10 @@ p {
     line-height: 2;
     font-family: 'Varela Round', sans-serif;
 }
+
+hr {
+    border: dotted white 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 1.875em auto;
+}
