@@ -113,3 +113,24 @@ img.skills:hover {
     height: 4%;
     width: 4%;
 }
+
+h2 {
+    background-color: #8FD9A8;
+    color: #256452;
+    font-family: 'Redressed', cursive;
+    padding: 20px;
+    margin-top: 1.15em;
+    font-size: 2.5rem;
+    font-weight: normal;
+    padding-bottom: 0.625em;
+}
+
+h3 {
+    color: #2666CF;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+p {
+    line-height: 2;
+    font-family: 'Varela Round', sans-serif;
+}
