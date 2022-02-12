@@ -17,3 +17,34 @@ body {
     padding-top: 6.25em;
     overflow: auto;
 }
+
+.navbar {
+    background-color: #54BAB9;
+    position: absolute;
+    top: 0;
+    margin: 0 auto 0 auto;
+    width: 100%;
+}
+
+.profile-pin {
+    border-color: #b9c8ed;
+    position: absolute;
+    top: 0.375em;
+    left: 6.875em;
+    border-radius: 100%;
+    height: 3.125em;
+    width: 3.125em;
+}
+
+h4.about {
+    position: relative;
+    top: -2px;
+    left: 35%;
+    font-family: 'Varela Round', sans-serif;
+    display: inline-block;
+}
+
+a.about {
+    color: white;
+    text-decoration: none;
+}
