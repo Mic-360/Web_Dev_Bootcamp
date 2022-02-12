@@ -65,3 +65,9 @@ a.about {
     margin: 6.45em auto 0;
     width: 100%;
 }
+
+.mid-container {
+    margin: 0;
+    padding-bottom: 2.5em;
+    background-color: #CAF0F8;
+}
