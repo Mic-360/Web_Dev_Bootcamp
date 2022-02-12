@@ -10,5 +10,10 @@ body {
 }
 
 .top-container {
-
+    text-align: center;
+    background-color: #90E0EF;
+    position: relative;
+    width: auto;
+    padding-top: 6.25em;
+    overflow: auto;
 }
