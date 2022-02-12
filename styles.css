@@ -172,3 +172,20 @@ hr {
     margin: auto;
     background-color: #3E8E7E;
 }
+
+a.footer-link {
+    color: #8fc9ff;
+    margin-right: 1.5rem;
+    text-decoration: none;
+}
+
+a.footer-link:hover {
+    color: white;
+    font-weight: bolder;
+}
+
+p.copyright {
+    font-size: 0.85rem;
+    font-weight: bold;
+    font-family: 'Varela Round', sans-serif;
+}
