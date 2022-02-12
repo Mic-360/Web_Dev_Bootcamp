@@ -166,3 +166,9 @@ hr {
     text-decoration: none;
     border-radius: 0;
 }
+
+.bottom-container {
+    padding: 50px 0 15px;
+    margin: auto;
+    background-color: #3E8E7E;
+}
