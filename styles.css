@@ -1,191 +1,191 @@
 html {
-    display: block;
+  display: block;
 }
 
 body {
-    display: block;
-    margin: 0;
-    text-align: center;
-    background-color: white;
+  display: block;
+  margin: 0;
+  text-align: center;
+  background-color: white;
 }
 
 .top-container {
-    text-align: center;
-    background-color: #90E0EF;
-    position: relative;
-    width: auto;
-    padding-top: 6.25em;
-    overflow: auto;
+  text-align: center;
+  background-color: #90e0ef;
+  position: relative;
+  width: auto;
+  padding-top: 6.25em;
+  overflow: auto;
 }
 
 .navbar {
-    background-color: #54BAB9;
-    position: absolute;
-    top: 0;
-    margin: 0 auto 0 auto;
-    width: 100%;
+  background-color: #54bab9;
+  position: absolute;
+  top: 0;
+  margin: 0 auto 0 auto;
+  width: 100%;
 }
 
 .profile-pin {
-    border-color: #b9c8ed;
-    position: absolute;
-    top: 0.375em;
-    left: 4.875em;
-    border-radius: 100%;
-    height: 3.125em;
-    width: 3.125em;
+  border-color: #b9c8ed;
+  position: absolute;
+  top: 0.375em;
+  left: 4.875em;
+  border-radius: 100%;
+  height: 3.125em;
+  width: 3.125em;
 }
 
 h4.about {
-    position: relative;
-    top: -2px;
-    left: 40%;
-    font-family: 'Varela Round', sans-serif;
-    display: inline-block;
+  position: relative;
+  top: -2px;
+  left: 40%;
+  font-family: "Varela Round", sans-serif;
+  display: inline-block;
 }
 
 a.about {
-    color: white;
-    text-decoration: none;
+  color: white;
+  text-decoration: none;
 }
 
 .intro {
-    position:relative;
-    top: 5em;
-    font-family: 'Qwitcher Grypen', cursive;
+  position: relative;
+  top: 5em;
+  font-family: "Qwitcher Grypen", cursive;
 }
 
 .block {
-    padding: 0 180px 0;
+  padding: 0 180px 0;
 }
 
 .land {
-    position: relative;
-    display: block;
-    margin: 6.45em auto 0;
-    width: 100%;
+  position: relative;
+  display: block;
+  margin: 6.45em auto 0;
+  width: 100%;
 }
 
 .mid-container {
-    margin: 0;
-    padding-bottom: 2.5em;
-    background-color: #CAF0F8;
+  margin: 0;
+  padding-bottom: 2.5em;
+  background-color: #caf0f8;
 }
 
 .profile-img {
-    border-radius: 100%;
-    margin: 1.25em;
-    height: 10em;
-    width: 10em;
+  border-radius: 100%;
+  margin: 1.25em;
+  height: 10em;
+  width: 10em;
 }
 
 .panel {
-    margin: 3.75em auto auto;
-    width: 25em;
-    height: 5em;
-    background-color: #8FD9A8;
-    border-top-right-radius:10px;
-    border-top-left-radius:10px;
-    border-bottom-right-radius:10px;
-    border-bottom-left-radius:10px;
+  margin: 3.75em auto auto;
+  width: 25em;
+  height: 5em;
+  background-color: #8fd9a8;
+  border-top-right-radius: 10px;
+  border-top-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  border-bottom-left-radius: 10px;
 }
 
 .panel-text {
-    color: #256452;
-    position: relative;
-    font-family: 'Redressed', cursive;
-    font-size: 2.4em;
-    font-weight: normal;
-    padding-top: 20px;
+  color: #256452;
+  position: relative;
+  font-family: "Redressed", cursive;
+  font-size: 2.4em;
+  font-weight: normal;
+  padding-top: 20px;
 }
 
 .skills {
-    height: 2.1875em;
-    width: 2.1875em;
+  height: 2.1875em;
+  width: 2.1875em;
 }
 
 .skill-img {
-    margin-bottom: 4.375em;
+  margin-bottom: 4.375em;
 }
 
 img.skills:hover {
-    border-radius: 0;
-    height: 4%;
-    width: 4%;
+  border-radius: 0;
+  height: 4%;
+  width: 4%;
 }
 
 h2 {
-    background-color: #8FD9A8;
-    color: #256452;
-    font-family: 'Redressed', cursive;
-    padding: 20px;
-    margin-top: 1.15em;
-    font-size: 2.5rem;
-    font-weight: normal;
-    padding-bottom: 0.625em;
+  background-color: #8fd9a8;
+  color: #256452;
+  font-family: "Redressed", cursive;
+  padding: 20px;
+  margin-top: 1.15em;
+  font-size: 2.5rem;
+  font-weight: normal;
+  padding-bottom: 0.625em;
 }
 
 h3 {
-    color: #2666CF;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  color: #2666cf;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
 }
 
 p {
-    line-height: 2;
-    font-family: 'Varela Round', sans-serif;
+  line-height: 2;
+  font-family: "Varela Round", sans-serif;
 }
 
 hr {
-    border: dotted white 6px;
-    border-bottom: none;
-    width: 4%;
-    margin: 1.875em auto;
+  border: dotted white 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 1.875em auto;
 }
 
 .btn {
-    background: #3498db;
-    background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
-    background-image: -moz-linear-gradient(top, #3498db, #2980b9);
-    background-image: -ms-linear-gradient(top, #3498db, #2980b9);
-    background-image: -o-linear-gradient(top, #3498db, #2980b9);
-    background-image: linear-gradient(to bottom, #3498db, #2980b9);
-    -webkit-border-radius: 12;
-    -moz-border-radius: 12;
-    border-radius: 12px;
-    text-shadow: 3px 2px 3px #000000;
-    font-family: Courier New;
-    color: #ffffff;
-    font-size: 24px;
-    padding: 5px 10px 5px 10px;
-    border: solid #2876a6 2px;
-    text-decoration: none;
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 12;
+  -moz-border-radius: 12;
+  border-radius: 12px;
+  text-shadow: 3px 2px 3px #000000;
+  font-family: Courier New;
+  color: #ffffff;
+  font-size: 24px;
+  padding: 5px 10px 5px 10px;
+  border: solid #2876a6 2px;
+  text-decoration: none;
 }
-  
+
 .btn:hover {
-    background: #3cb0fd;
-    text-decoration: none;
-    border-radius: 0;
+  background: #3cb0fd;
+  text-decoration: none;
+  border-radius: 0;
 }
 
 .bottom-container {
-    padding: 50px 0 15px;
-    margin: auto;
-    background-color: #3E8E7E;
+  padding: 50px 0 15px;
+  margin: auto;
+  background-color: #3e8e7e;
 }
 
 a.footer-link {
-    color: #8fc9ff;
-    margin-right: 1.5rem;
-    text-decoration: none;
+  color: #8fc9ff;
+  margin-right: 1.5rem;
+  text-decoration: none;
 }
 
 a.footer-link:hover {
-    color: white;
-    font-weight: bolder;
+  color: white;
+  font-weight: bolder;
 }
 
 p.copyright {
-    font-size: 0.85rem;
-    font-weight: bold;
-    font-family: 'Varela Round', sans-serif;
+  font-size: 0.85rem;
+  font-weight: bold;
+  font-family: "Varela Round", sans-serif;
 }
