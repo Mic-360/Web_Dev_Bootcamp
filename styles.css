@@ -118,6 +118,12 @@ p {
   font-family: "Varela Round", sans-serif;
 }
 
+.content {
+  font-weight: 400;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
 hr {
   border: dotted white 6px;
   border-bottom: none;
