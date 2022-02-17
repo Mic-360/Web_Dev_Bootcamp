@@ -14,8 +14,8 @@ body {
   background-color: #90e0ef;
   position: relative;
   width: auto;
-  padding-top: 6.25em;
-  overflow: auto;
+  /* padding-top: 6.25em; */
+  /* overflow: auto; */
 }
 
 .nav-color {
