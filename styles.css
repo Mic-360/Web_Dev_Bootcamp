@@ -38,13 +38,7 @@ body {
   font-family: "Qwitcher Grypen", cursive;
 }
 
-.block {
-  padding: 0 180px 0;
-}
-
 .land {
-  position: relative;
-  display: block;
   margin: 6.45em auto 0;
   width: 100%;
 }
@@ -95,6 +89,12 @@ img.skills:hover {
   border-radius: 0;
   height: 4%;
   width: 4%;
+}
+
+h4 {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #2666cf;
+  margin: 20px;
 }
 
 h2 {
@@ -152,7 +152,6 @@ hr {
 
 .bottom-container {
   padding: 50px 0 15px;
-  margin: auto;
   background-color: #3e8e7e;
 }
 
