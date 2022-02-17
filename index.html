@@ -35,13 +35,36 @@
 
 <body>
   <div class="top-container">
-    <div class="navbar">
-      <h4 class="about">
-        <a class="about" href="about.html" style="padding-right: 30px">About</a>
-        <a class="about" href="work.html">Work</a>
-      </h4>
-      <img src="images/favicon-removebg-preview (1).png" alt="pin-image" class="profile-pin" />
-    </div>
+    <!-- navbar -->
+
+    <nav class="navbar fixed-top navbar-expand-lg navbar-light nav-color">
+      <div class="container col-lg-8 nav-box">
+        <div class="row">
+          <div class="col-md-4 col-xs-4">
+            <a class="navbar-brand" href="#">
+              <img src="images/favicon-removebg-preview (1).png" alt="pin-image" class="profile-pin" />
+            </a>
+          </div>
+        </div>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarToggler"
+          aria-controls="navbarToggler" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarToggler">
+          <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+            <li class="nav-item nav-about ms-auto">
+              <a class="nav-link" aria-current="page" href="#">About</a>
+            </li>
+            <li class="nav-item nav-about ms-auto">
+              <a class="nav-link" href="#">Work</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+
+    <!-- name intro -->
+
     <div class="intro">
       <center>
         <h1 style="font-size: 80px; margin: 0 auto 0 auto; color: #3d2c8d">
