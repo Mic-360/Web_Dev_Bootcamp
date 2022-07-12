@@ -13,10 +13,10 @@ body {
   text-align: center;
   background-color: #90e0ef;
   position: relative;
-  width: autrem
 }
 
 .nav-color {
+  position: fixed;
   background-color: #54bab9;
 }
 
